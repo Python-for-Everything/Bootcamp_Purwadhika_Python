@@ -7,8 +7,12 @@
 x = 4
 y = 3
 z = 2
-print(w)
 
+# Hitung Nilai
+w = (x + y * z) / (x * y) ** 2
+
+# Menampilkan hasil
+print(f"\nNilai w adalah: {w}")
 # ===============================================================================================
 # Soal 2
 # Silahkan masukkan angka berapapun : 5
