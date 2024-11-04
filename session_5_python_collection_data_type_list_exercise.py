@@ -52,7 +52,7 @@ kalimat = "Aku baru makan nasi terus aku mau makan mie nanti malam"
 hitung_kata(kalimat)
 
 # ==============================================================================================
-print(f"Soal 4 s/d 7 - Toko Buah")
+print(f"Toko Buah - Soal 4, 5, 6, 7")
 
 daftar_buah = [
     {"Nama": "Apel", "Stock": 20, "Harga": 10000},
