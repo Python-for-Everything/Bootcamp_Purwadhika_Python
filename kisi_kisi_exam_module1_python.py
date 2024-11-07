@@ -520,8 +520,6 @@ else:
 # Penjelasan
 # Mari kita analisis kode berikut:
 #
-# python
-# Salin kode
 # bayar = input('Masukkan nominal 0 - 10 :')
 # harga_barang = 7
 #
@@ -621,8 +619,6 @@ else:
 # Penjelasan
 # Kode berikut menggunakan list comprehension untuk menerapkan fungsi tertentu pada setiap elemen di dalam list kota:
 #
-# python
-# Salin kode
 # kota = ['Jakarta', 'Bandung', 'Surabaya']
 # print([i.thisFunction() for i in kota])
 # Tujuan dari soal ini adalah untuk mengubah setiap nama kota menjadi huruf kecil,
@@ -1129,7 +1125,8 @@ Berikut adalah kode yang benar untuk menemukan indeks dari 'dog' dalam list pet:
 #     * Ketika choose('Grape') dipanggil, nilai 'Grape' diberikan sebagai argumen untuk parameter fruit,
 #     tetapi nilai ini tidak digunakan di dalam fungsi.
 #
-#     * Di dalam fungsi, perintah print(c) akan mencetak nilai dari variabel c, yang telah diinisialisasi sebagai "Apple" di luar fungsi.
+#     * Di dalam fungsi, perintah print(c) akan mencetak nilai dari variabel c,
+#     yang telah diinisialisasi sebagai "Apple" di luar fungsi.
 #
 # 4. Output:
 #     * Karena c berisi "Apple", output dari print(c) adalah Apple.
